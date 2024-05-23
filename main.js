@@ -10,7 +10,6 @@ const encrypt = (text) => {
     }
     console.log(result);
     return result;
-    
   };
 
 
